@@ -2,6 +2,7 @@
 
 ### project-specific
 data/mnli_train.tsv
+**/.DS_Store
 
 
 ### Python template
